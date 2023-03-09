@@ -3,7 +3,7 @@
 # Mostly constants
 export h1="Content-Type: application/json"
 export h2="Accept: application/json"
-export WORKSPACE=`pwd`
+export WORKSPACE=`pwd1`
 
 # Get values from user or parameter store
 # The following credentials can be stored in parameter store and retrieved dynamically 
